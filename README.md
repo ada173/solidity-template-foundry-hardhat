@@ -1,2 +1,2 @@
-# solidity-template-foundry-hardhat
- solidity template for foundry and hardhat
+# Solidity template
+solidity template with foundry and hardhat
